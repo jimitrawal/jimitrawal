@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimitrawal
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on any further projects(python)
+- 💞️ I’m looking to collaborate on any further projects
 
 
 <!---
