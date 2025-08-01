@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimit Rawal</h1>
-<h3 align="center">A versatile second year computer science student at TMU</h3>
+<h3 align="center">A versatile third year computer science student at TMU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimitrawal&label=Profile%20views&color=0e75b6&style=flat" alt="jimitrawal" /> </p>
 
